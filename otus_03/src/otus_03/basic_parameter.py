@@ -5,6 +5,6 @@ foo should accept an integer argument.
 """
 
 
-def foo(x: intt):
+def foo(x: int):
     pass
 
